@@ -21,6 +21,7 @@ func Kill_Process() {
 	}
 }
 
+// LOX
 func Cheat_Clicker() {
 	go Clicker()
 	kEvent := Usedkeys(gowinkey.VK_Y)
